@@ -6,6 +6,9 @@
   <a href="https://www.linkedin.com/in/ranjani-a-8a6a98200/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://www.hackerrank.com/ranji02">
+    <img src="https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank Badge"
+  </a>
 </div>
 
 <div id="badges" align="center">
@@ -41,3 +44,6 @@
 ---
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ranji02&theme=github-light&hide_border=true&date_format=j%20M%5B%20Y%5D&background=B0FF9B7B)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranji02&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
