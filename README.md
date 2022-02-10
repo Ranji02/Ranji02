@@ -1,11 +1,13 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="190"/>
 </div>
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/ranjani-a-8a6a98200/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=Ranji02&style=flat-square&color=blue" alt=""/>
   <h1>
@@ -15,7 +17,6 @@
 </div>
 
 ---
-
 ### :woman_technologist: About Me :
 - :office: I'm currently studying at SSN college.
 - :desktop_computer: I’m a Computer science student.
@@ -24,9 +25,7 @@
 - :seedling: I love learing new things.
 
 ---
-
 ### :hammer_and_wrench: Languages and Tools :
-
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
@@ -39,18 +38,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-<!--
-### Hi there 👋
-**Ranji02/Ranji02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ranji02&theme=github-light&hide_border=true&date_format=j%20M%5B%20Y%5D&background=B0FF9B7B)](https://git.io/streak-stats)
