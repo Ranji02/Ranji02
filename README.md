@@ -21,8 +21,8 @@
 
 ---
 ### :woman_technologist: About Me :
-- :office: I'm currently studying at SSN college.
-- :desktop_computer: I’m a Computer science student.
+- :office: I have completed my undergraduate studies at SSN College.
+- :desktop_computer: I’m a fresh Computer science graduate.
 - :infinity: I love coding.
 - :zap: I'm a problem solver.
 - :seedling: I love learing new things.
